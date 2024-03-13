@@ -1,5 +1,0 @@
-#!/bin/bash
-
-# Run the Python script using the value of PYFILE
-python3 "$PYFILE"
-
